@@ -1,3 +1,3 @@
 [submodule "extsUser/simyard.scenario.configurator"]
 	path = extsUser/simyard.scenario.configurator
-	url = git@github.com:SimYard/simyard.scenario.configurator.git
+	url = https://github.com/SimYard/simyard.scenario.configurator.git
